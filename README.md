@@ -95,7 +95,7 @@ Below are screenshots demonstrating key features of the working application:
 
 #### Verify OTP
 #(OTP will be shown on the terminal)
-<img width="490" height="275" alt="image" src="https://github.com/user-attachments/assets/e14f36de-b071-427a-8f79-f534af9abcfa" />
+<img width="490" height="275" alt="image" src="https://github.com/user-attachments/assets/ddad958d-5389-4881-a682-5850612bbe26" />
 
 #### Test Backend API
 <img width="355" height="104" alt="image" src="https://github.com/user-attachments/assets/098fcdbd-096e-4548-ac35-a04e86619502" />
