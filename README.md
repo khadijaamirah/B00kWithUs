@@ -1,4 +1,4 @@
-# B00kWithUs – Secure Booking Management Web Application
+# B00kWithUs – Secure Booking Management System Web Application
 
 ## 1. Project Description
 B00KWithUS is a secure web-based booking management system developed using the Django framework. The system allows users to register, authenticate, and manage bookings through a web interface, while administrators oversee system operations and user activities.
