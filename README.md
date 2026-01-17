@@ -103,6 +103,7 @@ Below are screenshots demonstrating key features of the working application:
 
 #### Booking Page
 #(Users can create new booking and view, edit or delete their existing bookings)
+
 <img width="529" height="207" alt="image" src="https://github.com/user-attachments/assets/890d5029-96f9-4176-961c-dd92f74d3387" />
 
 #### Booking Form
@@ -110,8 +111,10 @@ Below are screenshots demonstrating key features of the working application:
 
 #### Admin Panel
 #(Admin must log in one more time to verify their identity)
+
 <img width="493" height="379" alt="image" src="https://github.com/user-attachments/assets/a0ddeb61-8169-4ec9-b4ba-8013e5ad8c14" />
 
 #### Administration Site
 #(Displays all bookings, existing users & audit logs)
+
 <img width="940" height="272" alt="image" src="https://github.com/user-attachments/assets/617ae255-84f7-4c74-a46a-65e95eac0fd0" />
