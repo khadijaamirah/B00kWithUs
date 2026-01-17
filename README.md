@@ -59,7 +59,7 @@ python manage.py createsuperuser
 ```
 #### 3. Start the server
 ```bash
-python manage.py migrate
+python manage.py runserver
 ```
 #### 4. Open browser and go to:
 ```bash
