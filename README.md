@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 #### 4. Configure environment variables
 ```bash
-#(Create a .env file based on .env.example)
+#Create a .env file based on .env.example
 cp .env.example .env
 #Fill in your own SECRET_KEY and other config values
 ```
