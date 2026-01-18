@@ -57,12 +57,12 @@ After installation:
 
 #### 1. Apply database migrations
 ```bash
-mkdir staticfiles
-python manage.py collectstatic
+python manage.py migrate
 ```
 #### 2. Create Static files
 ```bash
-python manage.py migrate
+mkdir staticfiles
+python manage.py collectstatic
 ```
 #### 3. Create an admin user (Optional)
 ```bash
