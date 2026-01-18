@@ -57,21 +57,26 @@ After installation:
 
 #### 1. Apply database migrations
 ```bash
+mkdir staticfiles
+python manage.py collectstatic
+```
+#### 2. Create Static files
+```bash
 python manage.py migrate
 ```
-#### 2. Create an admin user (Optional)
+#### 3. Create an admin user (Optional)
 ```bash
 python manage.py createsuperuser
 ```
-#### 3. Start the server
+#### 4. Start the server
 ```bash
 python manage.py runserver
 ```
-#### 4. Open browser and go to:
+#### 5. Open browser and go to:
 ```bash
 http://127.0.0.1:8000/ 
 ```
-#### 5. Register a user or log in with an existing account
+#### 6. Register a user or log in with an existing account
 
 ## 5. Dependencies
 This project uses the following dependencies:
